@@ -21,7 +21,7 @@ public class menuInicial : MonoBehaviour
     }
     public void chamaCenaO2()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("O2");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("O");
     }
     public void chamaCenaH2O()
     {
